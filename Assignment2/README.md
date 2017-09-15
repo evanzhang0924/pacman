@@ -1,4 +1,4 @@
-# assignment2
+# Assignment2
 
 #### Question 1:
 >**Reflex Agent**: In this question, I think the best way for the pacman is to minimize the distance to food and capsules. In the meantime, maximize the distance to ghosts.  

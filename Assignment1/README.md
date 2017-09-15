@@ -1,4 +1,4 @@
-# assignment 1
+# Assignment 1
 
 #### Question1:  
 >**DFS**: In this question, we know that the frontier should be last in first out, and I also read the util.py file, therefore, I decided to use Stack data structure to store the states. And this is a graph search algorithm, I also add an explored set to store the states which visited before the current state.  

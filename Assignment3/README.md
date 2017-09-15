@@ -1,4 +1,4 @@
-# assignment3
+# Assignment3
 
 #### Question 1:
 >**Value Iteration**: in this question, I just use the formulas from the slide to compute these q values, and choose the maximum one as the action. The key point is the Bellman equation.
